@@ -1,6 +1,6 @@
 1. Wat heb je dit jaar voor het eerst gedaan?
 2. Heb je je aan je goede voornemens gehouden?
-3. Heeft iemand dicht bij je geboorte gegeven?
+3. Is iemand dicht bij je bevallen?
 4. Is iemand dicht bij je overleden?
 5. Welke steden/staten/landen heb je bezocht?
 6. Wat zou je volgend jaar willen hebben wat je dit jaar hebt gemist?
@@ -8,7 +8,7 @@
 8. Wat was jouw grootste prestatie dit jaar?
 9. Wat was jouw grootste tekortkoming?
 10. Welke andere moeilijkheden heb je doorstaan?
-11. Ben je ziek geweest of heb je letsel opgelopen?
+11. Ben je ziek geweest, of heb je letsel opgelopen?
 12. Wat was het beste ding wat je hebt gekocht?
 13. Wiens gedrag verdiende gevierd te worden?
 14. Wiens gedrag heeft je geschokt?
@@ -16,8 +16,8 @@
 16. Wat maakte je héél erg opgewonden?
 17. Welk liedje zal je altijd aan dit jaar herinneren?
 18. Vergeleken met deze tijd vorig jaar, ben je: blijer of droeviger? Dunner of dikker? Rijker of armer?
-19. Wat had je meer van willen doen?
-20. Wat had je minder van willen doen?
+19. Wat had je meer willen doen?
+20. Wat had je minder willen doen?
 21. Hoe ga je Kerst vieren?
 22. Ben je dit jaar verliefd geworden?
 23. Haat je nu iemand die je vorig jaar niet haatte?
